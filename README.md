@@ -10,6 +10,10 @@ A collection of standardized Python libraries for time series analysis and forec
 | **[ts_metric](https://github.com/zysongg/ts_metric)** | Metrics computation for prediction, imputation, and generation | `pip install git+https://github.com/zysongg/ts_metric.git` |
 | **[ts_trainer](https://github.com/zysongg/ts_trainer)** | Standardized training framework based on PyTorch Lightning | `pip install git+https://github.com/zysongg/ts_trainer.git` |
 
+### 📂 Datasets
+
+- **[TimeSeries Dataset](https://huggingface.co/datasets/zysoong/TimeSeries)** - Preprocessed time series datasets for benchmarking
+
 ### Quick Start
 
 ```python
