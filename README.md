@@ -13,6 +13,8 @@ A collection of standardized Python libraries for time series analysis and forec
 ### 📂 Datasets
 
 - **[TimeSeries Dataset](https://huggingface.co/datasets/zysoong/TimeSeries)** - Preprocessed time series datasets for benchmarking
+- **[ConTSG-Bench Dataset](https://huggingface.co/datasets/mldi-lab/ConTSG-Bench-Datasets)** - Time series generation benchmark dataset
+- **[ConTSG-Bench Leaderboard](https://huggingface.co/spaces/mldi-lab/ConTSG-Bench-Leaderboard)** - Interactive benchmark leaderboard
 
 ### Quick Start
 
