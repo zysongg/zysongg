@@ -2,6 +2,12 @@
 
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?user=KnRThI0AAAAJ&hl=zh-CN)
 
+🎓 **Time Series Researcher** | SEU (Southeast University)
+
+- 🔬 Research: Time Series Forecasting, Generation, and Imputation
+- 🛠️ Building: TSLib - A unified toolkit for time series analysis
+- 📫 Contact: [Google Scholar](https://scholar.google.com.hk/citations?user=KnRThI0AAAAJ&hl=zh-CN)
+
 ## 🔧 TSLib Tool Suite
 
 A collection of standardized Python libraries for time series analysis and forecasting:
