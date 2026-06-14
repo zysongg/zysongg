@@ -1,5 +1,7 @@
 # Hi there 👋
 
+**Zhangyao Song (宋章耀)** | PhD Student @ Southeast University (东南大学)
+
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?user=KnRThI0AAAAJ&hl=zh-CN)
 
 🎓 **Time Series Researcher** | SEU (Southeast University)
